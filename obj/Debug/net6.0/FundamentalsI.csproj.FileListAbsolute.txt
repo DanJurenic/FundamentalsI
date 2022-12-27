@@ -1,0 +1,15 @@
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\bin\Debug\net6.0\FundamentalsI.exe
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\bin\Debug\net6.0\FundamentalsI.deps.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\bin\Debug\net6.0\FundamentalsI.runtimeconfig.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\bin\Debug\net6.0\FundamentalsI.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\bin\Debug\net6.0\FundamentalsI.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.csproj.AssemblyReference.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.AssemblyInfoInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.AssemblyInfo.cs
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.csproj.CoreCompileInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\refint\FundamentalsI.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\FundamentalsI.genruntimeconfig.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FundamentalsI\obj\Debug\net6.0\ref\FundamentalsI.dll
